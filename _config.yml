@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: Songjiu's Blog
 SEOTitle: Songjiu的博客 | BY Blog
 header-img: img/bktitle.jpg
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 
+ba_track_id: 7325de06fece75e174224183551a7376
 # Google Analytics
 ga_track_id:  # Format: UA-xxxxxx-xx
 ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
