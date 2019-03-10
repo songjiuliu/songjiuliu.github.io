@@ -3,7 +3,7 @@ title: Songjiu's Blog
 SEOTitle: Songjiu的博客 | BY Blog
 header-img: img/bktitle.jpg
 email: songjiuliu@hotmail.com
-description: "What doesn't kill you makes you stronger"
+description: " "
 keyword: " "
 url: "http://songjiuliu.cn"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/songjiuliu/songjiuliu.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "What doesn't kill you makes you stronger"
+sidebar-about-description: "songjiu，学生，信息安全爱好者"
 sidebar-avatar: img/head.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
