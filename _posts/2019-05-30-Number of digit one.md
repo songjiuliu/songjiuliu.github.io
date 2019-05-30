@@ -1,6 +1,6 @@
 ﻿---
 layout:     post
-title:      天际线
+title:      Number of digit one 
 subtitle:   力扣233
 date:       2019-05-30
 author:     songjiu
@@ -32,6 +32,8 @@ tags:
 **当最高位为0的时候**，没有p就没有1。  
 **当最高位为1的时候**，有q个1（如上文所示）。  
 **当最高为大于1的时候**，有1*10^(i-1)个1（如上文所示）。  
+### 改进
+解决了1的个数的问题，可以进而改变参数解决0-9的任意问题。
 ### 代码
 ```python
     def countDigitOne(self, n: int) -> int:
