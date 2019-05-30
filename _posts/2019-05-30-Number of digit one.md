@@ -10,7 +10,6 @@ tags:
     - 算法
 ---
 
-## 题目概述
 统计n以内数字1出现的次数。
 ### 题目概述
 [题目概述](https://leetcode-cn.com/problems/number-of-digit-one/)
